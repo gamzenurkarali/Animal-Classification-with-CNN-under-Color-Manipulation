@@ -1,5 +1,4 @@
-# Animal-Classification-with-CNN-under-Color-Manipulation
-# Hayvan Sınıflandırma Projesi
+# Animal-Classification-with-CNN-under-Color-Manipulation 
 
 Bu proje, farklı hayvan türlerini sınıflandırmak için bir CNN modelinin geliştirilmesi ve eğitilmesini içermektedir. Projede kullanılan veri seti, çeşitli hayvan türlerini içeren ve farklı aydınlatma koşullarında manipüle edilmiş görsellerden oluşmaktadır. Manipülasyon sonrası renk sabitliği uygulanarak model performansı analiz edilmiştir.
 
