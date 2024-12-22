@@ -16,3 +16,6 @@ Projede kullanılan temel Python kütüphaneleri:
 
 ## Projenin Amacı
 Bu proje, derin öğrenme modellerinin manipüle edilmiş görsellere karşı dayanıklılığını test etmek ve renk sabitliği gibi ön işleme yöntemlerinin bu tür manipülasyonların olumsuz etkilerini nasıl azalttığını incelemek için gerçekleştirilmiştir.
+
+
+Kaggle: https://www.kaggle.com/code/gamzenurkarali/animalclassification-with-cnn
